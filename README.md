@@ -225,12 +225,4 @@ Insurance-Charges-Prediction/
 
 ---
 
-# Author
 
-Atharva Kulkarni
-
----
-
-# License
-
-This project is for educational and learning purposes.
