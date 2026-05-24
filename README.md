@@ -1,5 +1,8 @@
 # Insurance Charges Prediction Using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Regression-orange)
 ## Project Overview
 
 This project focuses on predicting medical insurance charges using Machine Learning techniques. The objective is to analyze how factors such as age, BMI, smoking habits, gender, number of children, and region affect insurance costs.
